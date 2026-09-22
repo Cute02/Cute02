@@ -130,9 +130,9 @@ class Neha:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cute02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cute02&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -156,11 +156,11 @@ class Neha:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Cute02">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/mary-neha-0036a5264">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
